@@ -37,7 +37,7 @@ npm -v
 ### ✅ Step 2: Clone the Bot Repository
 
 ```bash
-git clone https://github.com/cryptodai3/Merak-Testnet-Auto-Bot.git
+git clone https://github.com/DalleDai/Merak-Testnet-Auto-Bot.git
 cd Merak-Testnet-Auto-Bot
 ```
 
